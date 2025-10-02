@@ -6,13 +6,13 @@ Program Features:
 
 The program allows the user to act as either a public user or a private user:
 
-Public User
+Public User:
 
 - Encrypt a message using the public key.
 
 - Verify a digital signature using the public key.
 
-Private User
+Private User:
 
 - Decrypt messages using the private key.
 
